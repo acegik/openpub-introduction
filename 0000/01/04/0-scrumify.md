@@ -1,12 +1,12 @@
 ## Áp dụng quy trình tinh gọn
 
-![Agile Methodology](http://localhost:4000/openpub-introduction/assets/scrum-process.png)
+![Agile Methodology](/openpub-introduction/assets/scrum-process.png)
 
 --
 
 ## Chia nhỏ luồng xử lý
 
-![Devebot overview](http://localhost:4000/openpub-introduction/assets/publish-process-B.png)
+![Devebot overview](/openpub-introduction/assets/publish-process-B.png)
 
 --
 
@@ -22,10 +22,10 @@
 
 ## Lợi ích lớn nhất là thời gian
 
-![LeanPub - Exploring ES6](http://localhost:4000/openpub-introduction/assets/leanpub-exploring-es6.png)
+![LeanPub - Exploring ES6](/openpub-introduction/assets/leanpub-exploring-es6.png)
 
 --
 
 ## Khung Scrum đầy đủ
 
-![Devebot overview](http://localhost:4000/openpub-introduction/assets/scrum-overview.png)
+![Devebot overview](/openpub-introduction/assets/scrum-overview.png)
